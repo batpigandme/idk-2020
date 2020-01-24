@@ -1,2 +1,3 @@
-# idk-2020
-😳 You probably asked me a question, and I didn't know the answer. So, file an issue!
+# idk-2020 😳
+
+Did you ask me a question in person, and I didn't know the answer, so I told you to file an issue? If so, you're in the right place...
